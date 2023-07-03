@@ -1,1 +1,3 @@
 # inflation-analysis-pakistan
+
+This research project focuses on analyzing the factors contributing to high inflation in Pakistan during the period of 2022-2023. The study involved collecting and cleaning daily exchange rate data, which was then utilized in R code to generate informative graphs and frequency distribution tables. The visual displays were employed to provide a comprehensive representation of the data patterns. This project served as a term assignment for my Data Analytics course, allowing me to apply statistical techniques and programming skills to gain insights into the inflation dynamics of Pakistan.
